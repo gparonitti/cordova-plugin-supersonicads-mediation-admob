@@ -1,4 +1,4 @@
-# AdColony for Supersonic Ads Mediation Platform
+# AdMob for Supersonic Ads Mediation Platform
 Add support for [AdMob](https://www.google.com/admob/) in [Supersonic Ads](https://www.supersonic.com/) mediation platform to your Cordova app.
 
 ## How do I install it? ##
